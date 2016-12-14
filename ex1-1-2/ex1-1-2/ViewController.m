@@ -20,7 +20,11 @@
     // Do any additional setup after loading the view, typically from a nib.
     
     
-    NSArray *niku = [NSArray arrayWithObjects:@"豚肉", @"牛肉", @"鶏肉", nil];
+    NSArray *niku = [NSArray arrayWithObjects:@"buta", @"gyu", @"tori", nil];
+    NSDictionary *dic = [NSDictionary dictionaryWithObject:@"yakiniku"forKey:@"Key"];
+
+    NSLog(@"%@",niku);
+    NSLog(@"%@",dic);
     
 }
 
