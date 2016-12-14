@@ -14,9 +14,21 @@
 
 @implementation ViewController
 
+
+NSString* str = @"Hello";
+NSInteger intVal= 11;
+BOOL yesNo = YES;
+float flo = 123.456f;
+
 - (void)viewDidLoad {
     [super viewDidLoad];
     // Do any additional setup after loading the view, typically from a nib.
+
+    NSLog(@"%@",str);
+    NSLog(@"YN: %d",yesNo);
+   NSLog(@"myFloat: %.2f", flo);
+    NSLog(@"%ld",(long)intVal);
+
 }
 
 - (void)didReceiveMemoryWarning {
