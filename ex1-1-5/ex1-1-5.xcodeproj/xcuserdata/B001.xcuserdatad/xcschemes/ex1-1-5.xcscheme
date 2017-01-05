@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Scheme
-   LastUpgradeVersion = "0730"
+   LastUpgradeVersion = "0720"
    version = "1.3">
    <BuildAction
       parallelizeBuildables = "YES"
@@ -14,7 +14,7 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "71C1A1771E08E7DC003AD610"
+               BlueprintIdentifier = "A7236E521E1AB8D400488507"
                BuildableName = "ex1-1-5"
                BlueprintName = "ex1-1-5"
                ReferencedContainer = "container:ex1-1-5.xcodeproj">
@@ -32,7 +32,7 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "71C1A1771E08E7DC003AD610"
+            BlueprintIdentifier = "A7236E521E1AB8D400488507"
             BuildableName = "ex1-1-5"
             BlueprintName = "ex1-1-5"
             ReferencedContainer = "container:ex1-1-5.xcodeproj">
@@ -55,7 +55,7 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "71C1A1771E08E7DC003AD610"
+            BlueprintIdentifier = "A7236E521E1AB8D400488507"
             BuildableName = "ex1-1-5"
             BlueprintName = "ex1-1-5"
             ReferencedContainer = "container:ex1-1-5.xcodeproj">
@@ -74,7 +74,7 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "71C1A1771E08E7DC003AD610"
+            BlueprintIdentifier = "A7236E521E1AB8D400488507"
             BuildableName = "ex1-1-5"
             BlueprintName = "ex1-1-5"
             ReferencedContainer = "container:ex1-1-5.xcodeproj">
